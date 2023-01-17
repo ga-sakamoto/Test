@@ -1,1 +1,15 @@
-{}
+ImageViewer2:
+  description: 
+  git: https://github.com/rsdlab/ImageViewer2.git
+  hash: 85d721e496836cbe45f141c2fd454951170373f6
+  repo_name: ImageViewer2
+SingleArUco2:
+  description: 
+  git: https://github.com/rsdlab/SingleArUco2.git
+  hash: 8279b3ff12be19199c99c6ff982ae13a72d8170b
+  repo_name: SingleArUco2
+WebCamera2:
+  description: 
+  git: https://github.com/rsdlab/WebCamera2.git
+  hash: 7edb5183f755584c6aaba07b16bd88b2793efb02
+  repo_name: WebCamera2
