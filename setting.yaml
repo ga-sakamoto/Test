@@ -10,4 +10,4 @@ application :
   system : DefaultSystem.xml
   console_bind : ['C++', 'Java', 'Python']
   nameservers :
-    - bbb
+    - ddd
